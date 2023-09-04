@@ -1,12 +1,33 @@
-### Hi there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">, I am Robel
----
+<div align="center">
+  <h1>Hello, I'm Robel 👋</h1>
+  <p>Experienced Full Stack Developer | React, Next.js, MongoDB, Node.js | UI/UX Enthusiast</p>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=robel-belihu&color=green)
 
-A Software developer specializing in JavaScript technologies. 
-Experienced in tech stacks listed below
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,tailwind,materialui,react,next,mongodb,nodejs,express,git,github,&theme=light)](https://skillicons.dev)
+## 🚀 About Me
 
-Started web development back in 2017 as a hobby and I grew to love it when I started working on real projects. I expanded my skillset through hard work and dedication on day to day basis. I first got the chance to be part of some interesting projects a little over two years ago and I have been working on myself to acquire more skills and be more efficient ever since.  <img src="https://media.tenor.com/cWWoEqW-gicAAAAi/smiley-face.gif" width="15px">
+I'm a passionate and experienced Full Stack Developer with a strong focus on building user-friendly and scalable web applications. With a proven track record in React, Next.js, MongoDB, Node.js, and a knack for creating stunning user interfaces with CSS frameworks like Material-UI and Tailwind CSS, I'm committed to delivering high-quality software solutions that meet both user needs and business goals.
+
+My journey in the world of software development began in 2018. Since then, I've been on an exciting and continuous learning path to stay up-to-date with the latest technologies and best practices in the field.
+
+## 💻 Tech Stack
+
+- Frontend: React, Next.js, Material-UI, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Languages: JavaScript, TypeScript
+
+## 🌟 Let's Connect
+
+- LinkedIn: [Robel's LinkedIn](https://www.linkedin.com/in/robel-belihu/)
+- Email: [Robel's Email](mailto:robelmelaku334@gmail.com)
+- Portfolio: [Robel's Portfolio Website](https://my-portfolio-five-liart.vercel.app/)
+
+Feel free to reach out if you'd like to discuss my past projects, potential collaborations, or have any questions. I'm always open to new opportunities and challenges!
+
+![Developer Typing](https://your-image-url-here.com/developer-typing.gif)
+
 <!--
 **Robel-Belihu/robel-belihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
